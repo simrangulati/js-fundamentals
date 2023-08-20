@@ -1,0 +1,21 @@
+{
+  "name": "js-fundamentals",
+  "version": "1.0.0",
+  "description": "To cover the fundamentals in JS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "first-class-functions":"node first-class-functions"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simrangulati/js-fundamentals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simrangulati/js-fundamentals/issues"
+  },
+  "homepage": "https://github.com/simrangulati/js-fundamentals#readme"
+}
